@@ -65,8 +65,7 @@ az webapp config connection-string set \
 ### 1. Clone do Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/odontofast.git
-cd odontofast
+[git clone https://github.com/seu-usuario/odontofast.git](https://github.com/felipetosma/Sprint-3---DevOps-Tools-e-Cloud-Computing.git)
 ```
 
 ### 2. Verificação do Ambiente
@@ -166,16 +165,4 @@ Para acessar e gerenciar o banco de dados diretamente no Azure:
 
 ## 👥 Contribuição
 
-1. Faça um fork do projeto
-2. Crie uma branch com sua feature (`git checkout -b feature/nova-funcionalidade`)
-3. Faça commit das suas alterações (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Faça push para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 🤝 Contato
-
-Para questões ou sugestões, abra uma issue no repositório ou entre em contato com os mantenedores do projeto.
