@@ -129,7 +129,8 @@ Para acessar e gerenciar o banco de dados diretamente no Azure:
    - Senha: `Fiap@2ds2025`
 
 ## 🎥 Vídeo Explicativo e Demonstrativo
-[Clique aqui]()
+[Clique aqui](https://youtu.be/rpMG-N7bPMw
+ )
  
 ## 👥 Integrantes
 
